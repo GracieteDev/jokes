@@ -1,4 +1,4 @@
-# Dad Joke Generator
+# Joke Generator
 
 This is a simple web application that generates jokes. It uses the "icanhazdadjoke" API to fetch a random joke and displays it on the webpage.
 
