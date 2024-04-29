@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #4c33a8;
+  background-color: #9fae18;
   font-family: 'Roboto', sans-serif;
   display:flex;
   flex-direction: column;
@@ -28,10 +28,10 @@ h3 {
   opacity: 0.5;
   letter-spacing: 2px;
   text-transform: uppercase;
-  font-size: 20px;
-  font-weight: 100;
+  font-size: 25px;
+  font-weight: 300;
   text-align: center;
-  color: #3f3b07;
+  color: #ef1c9b;
   margin-bottom: 20px;
   padding-bottom: 10px;
   /* border-bottom: 1px solid #3f3b07; */
@@ -48,7 +48,7 @@ h3 {
   max-width:600px;
 }
 .btn {
-  background-color: #797327;
+  background-color: #e82a9c;
   border: none;
   border-radius: 10px;
   color: #fff;
